@@ -28,13 +28,13 @@ const ProjectSlider = () => {
       title: "Fti Organizer",
       image: "/assets/FTIOrganizer.png",
       description: "Sistem informasi pengelolaan kegiatan FTI",
-      link: "https://github.com/paybackretr0/SPOKM" // Link ke domain/repo
+      link: "https://github.com/paybackretr0/SPOKM.git" // Link ke domain/repo
     },
     {
       title: "Khanny Dental",
       image: "/assets/Khanny Dental.png",
       description: "Sistem Booking Dokter Gigi",
-      link: "https://github.com/paybackretr0/DentalWebPHP" // Link ke domain/repo
+      link: "http://localhost/DentalWebPHP" // Link ke domain/repo
     },
     {
       title: "Penukaran Prodi",

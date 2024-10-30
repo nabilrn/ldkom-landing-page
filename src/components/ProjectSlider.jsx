@@ -28,7 +28,7 @@ const ProjectSlider = () => {
       title: "Fti Organizer",
       image: "/assets/FTIOrganizer.png",
       description: "Sistem informasi pengelolaan kegiatan FTI",
-      link: "https://github.com/paybackretr0/SPOKM.git" // Link ke domain/repo
+      link: "http://localhost:5000" // Link ke domain/repo
     },
     {
       title: "Khanny Dental",
